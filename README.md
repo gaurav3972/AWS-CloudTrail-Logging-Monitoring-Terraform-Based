@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> cf74326 (add)
-# AWS-CloudTrail-Logging-Monitoring-Terraform-Based-
-=======
 # 📘 AWS CloudTrail Logging & Monitoring (Terraform-Based)
 
 ## ✅ Project Purpose
@@ -142,17 +135,3 @@ Then monitor:
 - You can make the trail organizational by setting `is_organization_trail = true` (IAM permissions required)
 - All resources are managed via Terraform—repeatable, auditable, and scalable
 - Alarm and filter types can be extended based on your organization's security posture
-
----
-
-Want to add automated log retention, KMS encryption for even tighter control, or org-wide support? I'm happy to help you scale this next.
->>>>>>> dbbc23e (add)
-<<<<<<< HEAD
-=======
-# AWS-CloudTrail-Logging-Monitoring-Terraform-Based
-=======
-# AWS-CloudTrail-Logging-Monitoring-Terraform-Based-
->>>>>>> 5171ec2 (Initial commit)
->>>>>>> 836fa09 (add)
-=======
->>>>>>> cf74326 (add)
