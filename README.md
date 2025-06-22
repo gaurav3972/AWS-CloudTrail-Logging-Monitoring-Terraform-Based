@@ -1,9 +1,4 @@
-Sure! Below is your **full documentation** with **numbered deployment steps** — perfect for a `README.md`, internal wiki, or handoff doc. It includes purpose, infrastructure components, setup instructions, and clean-up steps.
-
----
-
 # 📘 AWS CloudTrail Logging & Monitoring (Terraform-Based)
-
 ## ✅ Project Purpose
 
 This project provisions a **secure, multi-region AWS CloudTrail setup** using Terraform. It:
