@@ -10,7 +10,7 @@ This project provisions a **secure, multi-region AWS CloudTrail setup** using Te
 * Sends alerts via Amazon SNS
 
 ---
-
+![](https://github.com/gaurav3972/AWS-CloudTrail-Logging-Monitoring-Terraform-Based/blob/master/IMAGE/5.1.png)
 ## 🧱 Infrastructure Components
 
 | Component             | Purpose                                                |
@@ -194,7 +194,7 @@ terraform destroy
 Type `yes` when prompted.
 
 ---
-
+![](https://github.com/gaurav3972/AWS-CloudTrail-Logging-Monitoring-Terraform-Based/blob/master/IMAGE/Screenshot%202025-06-17%20180133.png)
 ## 🔐 Security Features
 
 * ✅ S3 log encryption (AES256)
